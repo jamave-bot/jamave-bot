@@ -5,8 +5,8 @@
 
 A software engineer based in NYC passionate about learning about and developing fullstack applications
 
-
-- I'm interested in all things : **OOP, Cloud, Data Science, JS Frameworks**
+- 💡 Pronouns: he/him/his
+- 📚 I'm interested in all things : **OOP, Cloud, Data Science, JS Frameworks**
 - 💬 Talk to me about games, memes, weight training, anything that interests you.
 - 🌱 I’m currently learning all about **MERN** fullstack applications.
 
@@ -38,9 +38,8 @@ A software engineer based in NYC passionate about learning about and developing 
 
 
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>You miss 100% of the shots you don't take. - Wayne Gretzky - Michael Scott</i>
    <br>
 <br>
 <a target="_blank" href="http://jasonvelarde.com/"><img src="https://img.shields.io/badge/Portfolio-9ecfd1?style=for-the-badge&logo=appveyor?logo"></img></a>
