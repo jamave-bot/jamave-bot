@@ -36,14 +36,9 @@ A software engineer in fintech based in NYC passionate about learning about and 
    <i>You miss 100% of the shots you don't take. - Wayne Gretzky - Michael Scott</i>
    <br>
 <br>
-<a target="_blank" href="http://jasonvelarde.com/"><img src="https://img.shields.io/badge/Portfolio-9ecfd1?style=for-the-badge&logo=appveyor?logo"></img></a>
-<a target="_blank" href="https://www.linkedin.com/in/jason-m-velarde-093295220/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:jamave777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://jamave777.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Bobert_Boo"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <hr>
 
 </p>       
-<p align="center">
-	<strong>Consider giving my work a 🌟 to show some ♥</strong>
-</p>
