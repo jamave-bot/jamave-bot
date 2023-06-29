@@ -3,13 +3,7 @@
 
 ### Hi 👋 I'm Jason,
 
-A software engineer based in NYC passionate about learning about and developing fullstack applications
-
-- 💡 Pronouns: he/him/his
-- 📚 I'm interested in all things : **OOP, Cloud, Data Science, JS Frameworks**
-- 💬 Talk to me about games, memes, weight training, anything that interests you.
-- 🌱 I’m currently learning all about **MERN** fullstack applications.
-
+A software engineer in fintech based in NYC passionate about learning about and developing fullstack applications
 
 💻   **Technical skills:**
 
